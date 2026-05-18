@@ -1,6 +1,6 @@
 # Simulação e Análise de Churn de Clientes
 
-## Sobre o projeto
+## Sobre o Projeto 
 
 Este projeto simula um conjunto de dados de clientes de uma empresa de telecomunicações e modela o comportamento de churn (cancelamento de serviço) com base em variáveis como tempo de fidelidade, tipo de contrato, tipo de internet e valor da fatura mensal.
 
